@@ -15,14 +15,7 @@ import NotificationScreen from "./screens/NotificationScreen";
 import * as firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAT6YNS8H1NQQajHhO0rmj6tW_n9E1n-ZE",
-  authDomain: "belginterno.firebaseapp.com",
-  databaseURL: "https://belginterno.firebaseio.com",
-  projectId: "belginterno",
-  storageBucket: "belginterno.appspot.com",
-  messagingSenderId: "263916040774",
-  appId: "1:263916040774:web:9a94f60c7437d9a4e15047",
-  measurementId: "G-3D12ELXXKL"
+  .....
 };
 // Initialize Firebase
 if (!firebase.apps.length){
